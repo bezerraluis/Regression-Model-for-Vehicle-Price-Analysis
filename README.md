@@ -3,7 +3,7 @@
  Analise exploratoria e criacao de modelo para prever o valor de variados veiculos de acordo com a caracteristicas
  
  
- # [Project 1 : Predição de Valores de Veículos ](https://github.com/bezerraluis/-Main-projects/blob/master/Projects/Project_Cars_price.ipynb)
+ # [Project 1 : Predição de Valores de Veículos ](https://github.com/bezerraluis/Modelo-de-Regressao-Analise-de-preco-de-veiculos/blob/master/Project_Cars_price.ipynb)
 
 ![cars](https://github.com/bezerraluis/-Main-projects/blob/master/images/cars_price.jpg)
 
