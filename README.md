@@ -25,32 +25,52 @@ We are required to model the price of cars with the available independent variab
 
 # Data Dictionary - carprices
 
-	
-Car_ID	        -	        Unique id of each observation (Interger)
-Symboling 	-		Its assigned insurance risk rating, A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.(Categorical) 		
-carCompany	-		Name of car company (Categorical)		
-fueltype	-		Car fuel type i.e gas or diesel (Categorical)		
-aspiration	-		Aspiration used in a car (Categorical)		
-doornumber	-		Number of doors in a car (Categorical)		
-carbody	        -		body of car (Categorical)		
-drivewheel	-		type of drive wheel (Categorical)		
-enginelocation  -	        Location of car engine (Categorical)		
-wheelbase	-		Weelbase of car (Numeric)		
-carlength       -	        Length of car (Numeric)		
-carwidth	-		Width of car (Numeric)		
-carheight	-		height of car (Numeric)		
-curbweight	-		The weight of a car without occupants or baggage. (Numeric)		
-enginetype	-	        Type of engine. (Categorical)		
-cylindernumber	-		cylinder placed in the car (Categorical)		
-enginesize	-		Size of car (Numeric)		
-fuelsystem      -		Fuel system of car (Categorical)		
-boreratio       -	        Boreratio of car (Numeric)		
-stroke	        -		Stroke or volume inside the engine (Numeric)		
-compressionratio-		compression ratio of car (Numeric)		
-horsepower	-		Horsepower (Numeric)		
+Car_ID - Unique id of each observation (Interger)
+
+Symboling - Its assigned insurance risk rating, A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe.(Categorical)
+
+carCompany - Name of car company (Categorical)
+
+fueltype - Car fuel type i.e gas or diesel (Categorical)
+
+aspiration - Aspiration used in a car (Categorical)
+
+doornumber - Number of doors in a car (Categorical)
+
+carbody - body of car (Categorical)
+
+drivewheel - type of drive wheel (Categorical)
+
+enginelocation - Location of car engine (Categorical)
+
+wheelbase - Weelbase of car (Numeric)
+
+carlength - Length of car (Numeric)
+
+carwidth - Width of car (Numeric)
+
+carheight - height of car (Numeric)
+
+curbweight - The weight of a car without occupants or baggage. (Numeric)
+
+enginetype - Type of engine. (Categorical)
+
+cylindernumber - cylinder placed in the car (Categorical)
+
+enginesize - Size of car (Numeric)
+
+fuelsystem - Fuel system of car (Categorical)
+
+boreratio - Boreratio of car (Numeric)
+
+stroke - Stroke or volume inside the engine (Numeric)
+
+compressionratio- compression ratio of car (Numeric)
+
+horsepower - Horsepower (Numeric)
 
 
-
+# Description
 
 
 1. The database was extracted from this Kaggle competition: https://www.kaggle.com/hellbuoy/car-price-prediction. 
